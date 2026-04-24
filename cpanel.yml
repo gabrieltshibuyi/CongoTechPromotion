@@ -1,0 +1,11 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH="$HOME/public_html/congotechpromotion.cd"
+    - /bin/mkdir -p "$DEPLOYPATH"
+    - /bin/cp -R app "$DEPLOYPATH"
+    - /bin/cp -R public "$DEPLOYPATH"
+    - /bin/cp -R routes "$DEPLOYPATH"
+    - /bin/cp -R storage "$DEPLOYPATH"
+    - /bin/cp index.php "$DEPLOYPATH/index.php"
+    - /bin/cp .htaccess "$DEPLOYPATH/.htaccess"
