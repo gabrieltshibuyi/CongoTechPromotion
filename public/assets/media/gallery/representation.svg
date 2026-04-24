@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Representation internationale</title>
+  <desc id="desc">Illustration institutionnelle montrant une scène de conférence et de projection internationale.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#08345f"/>
+      <stop offset="100%" stop-color="#005ca9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="48" fill="url(#bg)"/>
+  <circle cx="1280" cy="150" r="180" fill="#f6d938" opacity="0.18"/>
+  <circle cx="290" cy="720" r="240" fill="#d91d38" opacity="0.16"/>
+  <rect x="120" y="120" width="700" height="500" rx="32" fill="#ffffff" opacity="0.1"/>
+  <rect x="180" y="180" width="580" height="300" rx="24" fill="#ffffff" opacity="0.9"/>
+  <rect x="220" y="220" width="220" height="18" rx="9" fill="#005ca9"/>
+  <rect x="220" y="270" width="420" height="16" rx="8" fill="#dbe9f7"/>
+  <rect x="220" y="310" width="360" height="16" rx="8" fill="#dbe9f7"/>
+  <rect x="220" y="350" width="270" height="16" rx="8" fill="#dbe9f7"/>
+  <rect x="920" y="220" width="460" height="420" rx="36" fill="#ffffff" opacity="0.92"/>
+  <circle cx="1050" cy="330" r="62" fill="#005ca9"/>
+  <rect x="960" y="430" width="310" height="22" rx="11" fill="#08345f" opacity="0.9"/>
+  <rect x="960" y="480" width="250" height="18" rx="9" fill="#8bb4da"/>
+  <rect x="960" y="520" width="290" height="18" rx="9" fill="#8bb4da"/>
+  <path d="M140 730 C340 560, 620 560, 820 730" fill="none" stroke="#f6d938" stroke-width="28" stroke-linecap="round" opacity="0.8"/>
+  <text x="180" y="790" fill="#ffffff" font-size="62" font-family="Arial, sans-serif" font-weight="700">Viva RDC</text>
+</svg>

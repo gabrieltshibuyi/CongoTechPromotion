@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mission d'écosystème</title>
+  <desc id="desc">Illustration de rendez-vous, cartographie et connexions pour une mission d'écosystème technologique.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#08345f"/><stop offset="100%" stop-color="#0c233d"/></linearGradient></defs>
+  <rect width="1600" height="900" rx="48" fill="url(#bg)"/>
+  <circle cx="250" cy="200" r="140" fill="#005ca9" opacity="0.25"/>
+  <circle cx="1340" cy="690" r="200" fill="#d91d38" opacity="0.22"/>
+  <rect x="180" y="180" width="540" height="500" rx="34" fill="#ffffff" opacity="0.94"/>
+  <rect x="820" y="180" width="600" height="500" rx="34" fill="#f2f7fc" opacity="0.96"/>
+  <circle cx="460" cy="340" r="70" fill="#f6d938"/>
+  <circle cx="310" cy="500" r="42" fill="#005ca9"/>
+  <circle cx="510" cy="520" r="42" fill="#d91d38"/>
+  <path d="M340 480 C390 430, 450 420, 492 476" fill="none" stroke="#08345f" stroke-width="14" stroke-linecap="round"/>
+  <path d="M940 320 C1040 250, 1190 250, 1280 340" fill="none" stroke="#005ca9" stroke-width="18" stroke-linecap="round"/>
+  <path d="M940 520 C1040 450, 1190 450, 1280 540" fill="none" stroke="#d91d38" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="950" cy="320" r="26" fill="#005ca9"/>
+  <circle cx="1110" cy="270" r="26" fill="#f6d938"/>
+  <circle cx="1280" cy="340" r="26" fill="#005ca9"/>
+  <circle cx="950" cy="520" r="26" fill="#d91d38"/>
+  <circle cx="1110" cy="470" r="26" fill="#f6d938"/>
+  <circle cx="1280" cy="540" r="26" fill="#d91d38"/>
+  <text x="190" y="810" fill="#ffffff" font-size="58" font-family="Arial, sans-serif" font-weight="700">Mission d'Ecosysteme</text>
+</svg>
